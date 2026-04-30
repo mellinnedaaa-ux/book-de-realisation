@@ -1,39 +1,36 @@
 # book-de-real# 👨‍💻 Mon Portfolio - Renault Mélinda
 
-## 🎯 Objectif
+## Objectif
 
 Intégrer une licence professionnelle en développement web et devenir développeur full stack.
 
 ---
 
-## 🧑‍💻 À propos de moi
+## À propos de moi
 
 Passionné par le développement web, je me forme en autonomie depuis 2 ans.
 J’ai réalisé plusieurs projets pour développer mes compétences en front-end et back-end.
 
 ---
 
-## 🚀 Projets
+### Projet : Site vitrine personnel
 
-### 🔹 Projet 1 : [Nom du projet]
+**Objectif :**  
+Créer un site responsive pour me présenter et mettre en avant mes compétences.
 
-**Objectif :**
-Créer [ex : un site e-commerce]
+**Technologies :**  
+HTML, CSS, JavaScript
 
-**Technologies :**
-HTML, CSS, JavaScript, Node.js
+**Ce que j’ai réalisé :**
+- Structure de la page avec HTML
+- Mise en forme avec CSS
+- Menu de navigation
+- Section contact
 
-**Ce que j’ai fait :**
-
-* Création de l’interface utilisateur
-* Développement du back-end
-* Connexion à une base de données
-
-**Ce que j’ai appris :**
-
-* Gestion des requêtes API
-* Organisation du code
-* Résolution de bugs
+**Compétences développées :**
+- Responsive design
+- Organisation du code
+- Création d’une interface simple
 
 🔗 **Code :** [lien GitHub]
 🔗 **Démo :** [lien si disponible]
@@ -46,7 +43,7 @@ HTML, CSS, JavaScript, Node.js
 
 ---
 
-## 🛠️ Compétences
+##  Compétences
 
 * HTML / CSS
 * JavaScript
@@ -55,7 +52,7 @@ HTML, CSS, JavaScript, Node.js
 
 ---
 
-## 🎯 Projet professionnel
+## Projet professionnel
 
 Mon objectif est de devenir développeur full stack et d’intégrer une formation professionnalisante pour renforcer mes compétences et acquérir de l’expérience en entreprise.
 
