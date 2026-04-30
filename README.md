@@ -1,4 +1,4 @@
-# book-de-real# 👨‍💻 Mon Portfolio - [Ton Nom]
+# book-de-real# 👨‍💻 Mon Portfolio - Renault Mélinda
 
 ## 🎯 Objectif
 
@@ -8,7 +8,7 @@ Intégrer une licence professionnelle en développement web et devenir développ
 
 ## 🧑‍💻 À propos de moi
 
-Passionné par le développement web, je me forme en autonomie depuis [durée].
+Passionné par le développement web, je me forme en autonomie depuis 2 ans.
 J’ai réalisé plusieurs projets pour développer mes compétences en front-end et back-end.
 
 ---
@@ -63,6 +63,6 @@ Mon objectif est de devenir développeur full stack et d’intégrer une formati
 
 ## 📬 Contact
 
-* Email : [ton email]
+* Email : mellinnedaaa@hotmail.fr
 * GitHub : [lien]
 isation
